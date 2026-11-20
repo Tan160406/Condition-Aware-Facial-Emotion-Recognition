@@ -1,3 +1,9 @@
+## 🚀 Live Demo
+[Open FER Studio](https://condition-aware-facial-emotion-recognition-mfmihjokk5w8stzr5xj.streamlit.app/)
+
+## Run Locally
+```bash
+streamlit run app_calibrated_v8_final_styled.py
 # Condition-Aware Facial Emotion Recognition Using Adaptive Image Processing
 
 ## Project Overview
@@ -75,9 +81,3 @@ The scripts directory contains the V8 training and condition-generation scripts.
 ## Authors
 Tanishka and Bhoomi Meena
 
-## Run Locally
-
-Start the Streamlit application using:
-
-```bash
-streamlit run app_calibrated_v8_final_styled.py
