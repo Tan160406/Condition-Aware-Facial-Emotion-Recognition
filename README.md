@@ -73,30 +73,6 @@ The system applies adaptive preprocessing according to the detected image condit
 
 The V8 experimental evaluation compares baseline and adaptive performance across seven image conditions.
 
-### Accuracy Results
-
-| Condition | Baseline (%) | Adaptive (%) |
-|---|---:|---:|
-| Clean | 26.18 | 26.82 |
-| Low Light | 28.07 | 25.68 |
-| Blur | 30.77 | 30.63 |
-| Noise | 23.80 | 31.41 |
-| Occlusion | 27.25 | 27.50 |
-| Low Light + Blur | 32.41 | 30.84 |
-| Low Light + Noise | 15.58 | 25.54 |
-
-### Macro-F1 Results
-
-| Condition | Baseline (%) | Adaptive (%) |
-|---|---:|---:|
-| Clean | 15.75 | 15.96 |
-| Low Light | 15.31 | 15.25 |
-| Blur | 14.78 | 15.42 |
-| Noise | 14.87 | 15.40 |
-| Occlusion | 15.76 | 15.49 |
-| Low Light + Blur | 14.20 | 15.44 |
-| Low Light + Noise | 7.76 | 14.75 |
-
 ### Key Observations
 
 - The largest accuracy improvement occurs under low-light noise conditions (+9.96 percentage points).
