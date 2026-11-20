@@ -1,0 +1,9 @@
+streamlit
+mediapipe
+reportlab
+numpy
+pandas
+Pillow
+plotly
+torch
+torchvision
