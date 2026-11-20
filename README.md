@@ -1,7 +1,3 @@
-[🚀 **Live Demo – Open FER Studio**](https://condition-aware-facial-emotion-recognition-mfmihjokk5w8stzr5xj.streamlit.app/)
-
----
-
 # Condition-Aware Facial Emotion Recognition Using Adaptive Image Processing
 
 ## Project Overview
