@@ -74,3 +74,10 @@ The scripts directory contains the V8 training and condition-generation scripts.
 
 ## Authors
 Tanishka and Bhoomi Meena
+
+## Run Locally
+
+Start the Streamlit application using:
+
+```bash
+streamlit run app_calibrated_v8_final_styled.py
